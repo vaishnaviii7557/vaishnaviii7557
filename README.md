@@ -41,7 +41,7 @@
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=StreamLit,NumPy,Pandas,,Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=streamLit,numPy,pandas,,scikit-learn" />
 </p>
 
 ### ☁️ Tools & Platforms
